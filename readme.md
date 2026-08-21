@@ -77,28 +77,28 @@ JavaScript Web
 🚀 More projects coming soon...
 
 📚 Currently In My Learning Era
-Programming       ███████████████░░░░░  75%
-Web Development   ████████████░░░░░░░  60%
-Git & GitHub      ██████████████░░░░░░ 70%
-Problem Solving   ███████████░░░░░░░░░ 55%
-New Technologies  ██████████░░░░░░░░░░ 50%
+<p align="center">
+  ⭐ <b>Star something you like</b><br>
+  🍴 <b>Explore my projects</b><br>
+  💬 <b>Say hello</b><br>
+  🚀 <b>Let's build something together!</b>
+</p>
+
 
 
 These aren't limits — they're just progress markers. 🌱
 
-🎯 My 2026 Mission
-┌────────────────────────────────────────────┐
-│              🚀 2026 MISSION               │
-├────────────────────────────────────────────┤
-│                                            │
-│  ☐ Build meaningful projects               │
-│  ☐ Become a stronger programmer             │
-│  ☐ Learn new technologies                  │
-│  ☐ Solve challenging problems              │
-│  ☐ Contribute to open source               │
-│  ☐ Create something I'm proud of           │
-│                                            │
-└────────────────────────────────────────────┘
+<h2 align="center">🎯 My 2026 Mission</h2>
+
+<p align="center">
+  🌱 <b>Learn</b> something new every day<br>
+  💻 <b>Build</b> meaningful projects<br>
+  🧠 <b>Improve</b> my problem-solving skills<br>
+  🚀 <b>Explore</b> new technologies<br>
+  🤝 <b>Contribute</b> to open source<br>
+  ✨ <b>Become</b> the developer I aspire to be
+</p>
+
 
 🧠 Things I Believe
 
@@ -132,10 +132,14 @@ These aren't limits — they're just progress markers. 🌱
 If you made it this far... you're awesome. 💜
 
 <br>
+<p align="center">
 
-⭐ Star something you like
-🍴 Explore my projects
-💬 Say hello
+⭐ Star something you like  
+🍴 Explore my projects  
+💬 Say hello  
 🚀 Let's build something together!
+
+
+
 
 </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:DA70D6,100:FF69B4&height=150&section=footer" /> </p>
