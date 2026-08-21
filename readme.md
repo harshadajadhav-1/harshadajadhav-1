@@ -1,114 +1,157 @@
-<!-- ╔══════════════════════════════════════════════════════════╗ --> <!-- ✨ HARSHADA JADHAV ✨ --> <!-- ╚══════════════════════════════════════════════════════════╝ --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:BB86FC,100:FF69B4&height=230&section=header&text=Harshada%20Jadhav&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%"/> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Harshada+%F0%9F%91%8B;Developer+in+the+Making+%F0%9F%92%BB;Creative+Mind+%F0%9F%8E%A8;Curious+Learner+%F0%9F%8C%B1;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG"/> </p> <p align="center"> <i>✨ Turning curiosity into code, and ideas into something real. ✨</i> </p> <p align="center"> <img src="https://img.shields.io/badge/STATUS-Learning%20%26%20Building-BB86FC?style=for-the-badge&labelColor=1A1025"/> <img src="https://img.shields.io/badge/MINDSET-Grow%20Every%20Day-FF69B4?style=for-the-badge&labelColor=1A1025"/> </p>
-🦋 Who Am I?
-<table> <tr> <td width="55%">
-Hey! I'm Harshada 👋
+<!-- ╔══════════════════════════════════════════════════════════════╗ --> <!-- ✦ HARSHADA JADHAV ✦ --> <!-- ╚══════════════════════════════════════════════════════════════╝ --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=260&section=header&text=HARSHADA%20JADHAV&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Developer%20%7C%20Learner%20%7C%20Creator&descAlignY=60&descSize=18" width="100%"/> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=800&color=C084FC&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Harshada+%F0%9F%91%8B;Welcome+to+my+digital+garden+%F0%9F%8C%B8;I+turn+ideas+into+code+%F0%9F%92%BB;I+learn+by+building+%F0%9F%9A%80;And+I+build+with+curiosity+%E2%9C%A8" /> </p> <p align="center"> <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VISITORS&color=BB86FC&style=for-the-badge"/> </p>
+<h2 align="center">🌷 A Little About Me</h2> <p align="center"> <i> "I don't just want to learn technology.<br> I want to understand it, experiment with it,<br> and create something meaningful with it." </i> </p> <br> <table align="center"> <tr> <td width="50%" valign="top">
+🦋 Who I Am
 
-I'm a developer in the making, a curious learner, and someone who loves discovering what can be created with technology.
+Hi! I'm Harshada Jadhav 👋
 
-I don't believe you need to know everything before you start.
+I'm a curious developer in the making who enjoys exploring technology, learning new things, and transforming ideas into projects.
 
-You just need:
+I believe that every great developer starts with one simple thing:
 
-Curiosity. Consistency. Courage. 💜
-
-I'm currently exploring programming, web development, problem solving, and the exciting world of building things from scratch.
-
-</td> <td width="45%" align="center">
-╭────────────────────╮
-│   🌸 HARSHADA 🌸   │
-├────────────────────┤
-│ 💻 Developer       │
-│ 🌱 Learner         │
-│ 🎨 Creator         │
-│ 🧠 Problem Solver  │
-│ 🚀 Dreamer         │
-╰────────────────────╯
+✨ Curiosity.
+</td> <td width="50%" valign="top">
+🌙 My Philosophy
+Learn something.
+        ↓
+Try something.
+        ↓
+Break something.
+        ↓
+Fix something.
+        ↓
+Understand something.
+        ↓
+Build something.
+        ↓
+Repeat. 🔁
 
 </td> </tr> </table>
-🌌 My Developer Universe
-<p align="center">
+<h2 align="center">🌌 My Developer Journey</h2> <p align="center">
 
-💡 IDEA
-↓
-🔍 EXPLORE
-↓
-📚 LEARN
-↓
-💻 CODE
-↓
-🐛 DEBUG
-↓
-🚀 BUILD
-↓
-✨ CREATE
-↓
-🔁 REPEAT
+💡 <b>Curiosity</b>
+  →  
+📚 <b>Learning</b>
+  →  
+💻 <b>Building</b>
+  →  
+🐛 <b>Debugging</b>
+  →  
+🚀 <b>Growing</b>
 
-</p> <p align="center"> <i>Every project starts with a tiny idea. 🌱</i> </p>
-💻 My Tech Playground
-🧩 Languages
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css&theme=dark" /> </p>
-🛠️ Tools & Technologies
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Always-Learning-9B59B6?style=flat-square"/> <img src="https://img.shields.io/badge/Always-Building-FF69B4?style=flat-square"/> <img src="https://img.shields.io/badge/Always-Exploring-8A2BE2?style=flat-square"/> </p>
-🚀 Things I'm Building
-<table> <tr> <td width="50%" align="center">
+</p> <p align="center"> <i>Every bug teaches me something. Every project takes me somewhere new.</i> </p>
+<h2 align="center">💻 My Digital Toolbox</h2> <h3 align="center">Languages I Explore</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css&theme=dark" /> </p> <h3 align="center">Tools I Love</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" /> </p> <p align="center"> <img src="https://img.shields.io/badge/🌱%20Always-Learning-8A2BE2?style=for-the-badge"/> <img src="https://img.shields.io/badge/💡%20Always-Creating-DA70D6?style=for-the-badge"/> <img src="https://img.shields.io/badge/🚀%20Always-Growing-FF69B4?style=for-the-badge"/> </p>
+<h2 align="center">🚀 My Creative Lab</h2> <table align="center"> <tr> <td width="50%" align="center">
 💜 Project Alpha
-<img src="https://img.shields.io/badge/🚧-UNDER%20CONSTRUCTION-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-BB86FC?style=for-the-badge&labelColor=16111d"/>
 
-A project currently taking shape through learning, experimentation, and lots of debugging.
+<br><br>
 
-Tech
+A project born from curiosity and built through experimentation.
+
+<br><br>
+
+Stack
 
 Python HTML CSS
 
+<br>
+
+🌱 Learning
+💻 Building
+✨ Improving
+
 </td> <td width="50%" align="center">
 🌸 Project Beta
-<img src="https://img.shields.io/badge/💡-IDEA%20STAGE-BB86FC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-EXPLORING-FF69B4?style=for-the-badge&labelColor=16111d"/>
 
-An experimental project created to turn an idea into something useful and fun.
+<br><br>
 
-Tech
+An idea waiting to become something real, useful, and fun.
+
+<br><br>
+
+Stack
 
 JavaScript Web
 
-</td> </tr> </table> <p align="center"> <b>🚀 More projects are on the way...</b> </p>
-📚 My Learning Era
-<p align="center">
+<br>
 
-🌱 Learning → 💻 Practicing → 🧠 Understanding → 🚀 Building
+💡 Idea
+🔍 Explore
+🚀 Create
 
-</p> <table align="center"> <tr> <td align="center">💻<br><b>Programming</b><br>████████░░</td> <td align="center">🌐<br><b>Web Dev</b><br>███████░░░</td> <td align="center">🧠<br><b>Problem Solving</b><br>██████░░░░</td> <td align="center">🔧<br><b>Git & GitHub</b><br>███████░░░</td> </tr> </table> <p align="center"> <i>These aren't limits — they're just progress markers. 🌱</i> </p>
-🎯 My 2026 Mission
-<p align="center"> <img src="https://img.shields.io/badge/2026-LEVEL%20UP%20%F0%9F%9A%80-BB86FC?style=for-the-badge&labelColor=1A1025"/> </p> <p align="center"> 🌱 <b>Learn</b> something new every day<br> 💻 <b>Build</b> meaningful projects<br> 🧠 <b>Improve</b> my problem-solving skills<br> 🚀 <b>Explore</b> new technologies<br> 🤝 <b>Contribute</b> to open source<br> ✨ <b>Become</b> the developer I aspire to be </p> <p align="center"> <i>Small steps. Big dreams. One commit at a time. 💜</i> </p>
-🧠 Things I Believe
-<table align="center"> <tr> <td align="center">💡<br><b>Every expert<br>was once a beginner.</b></td> <td align="center">🌱<br><b>Small progress<br>is still progress.</b></td> <td align="center">🐛<br><b>Bugs are lessons,<br>not failures.</b></td> </tr> <tr> <td align="center">🚀<br><b>Build first.<br>Perfect later.</b></td> <td align="center">🔥<br><b>Consistency<br>beats motivation.</b></td> <td align="center">💜<br><b>Enjoy the<br>journey.</b></td> </tr> </table>
-🌷 A Little Bit of Me
-<p align="center">
+</td> </tr> </table> <p align="center"> <b>✨ The best projects are still ahead of me.</b> </p>
+<h2 align="center">📚 Currently Learning</h2> <table align="center"> <tr> <td align="center">
+💻 Programming
 
-☕ Powered by curiosity
-<br>
-🎧 Coding + music = perfect combination
-<br>
-🌙 Midnight ideas hit differently
-<br>
-🐛 Debugging is part of the adventure
-<br>
-💡 Always collecting new ideas
-<br>
-✨ Still becoming the developer I want to be
+🟣🟣🟣🟣🟣⚪⚪⚪
+
+</td> <td align="center">
+🌐 Web Development
+
+🟣🟣🟣🟣⚪⚪⚪⚪
+
+</td> </tr> <tr> <td align="center">
+🧠 Problem Solving
+
+🟣🟣🟣🟣⚪⚪⚪⚪
+
+</td> <td align="center">
+🔧 Git & GitHub
+
+🟣🟣🟣🟣🟣⚪⚪⚪
+
+</td> </tr> </table> <p align="center"> <i>Progress isn't about being perfect. It's about moving forward. 🌱</i> </p>
+<h2 align="center">🎯 2026 — My Level Up Year</h2> <p align="center"> <img src="https://img.shields.io/badge/2026-LEVEL%20UP%20%E2%9C%A8-BB86FC?style=for-the-badge&labelColor=16111d"/> </p> <table align="center"> <tr> <td>
+
+🌱 Learn something new every day
+
+</td> </tr> <tr> <td>
+
+💻 Build projects that I'm proud of
+
+</td> </tr> <tr> <td>
+
+🧠 Become better at problem solving
+
+</td> </tr> <tr> <td>
+
+🚀 Explore new technologies
+
+</td> </tr> <tr> <td>
+
+🤝 Make my first open-source contributions
+
+</td> </tr> <tr> <td>
+
+✨ Become a stronger and more confident developer
+
+</td> </tr> </table> <p align="center"> <b>One commit at a time. One lesson at a time. One step closer. 🚀</b> </p>
+<h2 align="center">🧠 My Developer Mindset</h2> <table align="center"> <tr> <td align="center">💡<br><b>Stay Curious</b><br><sub>Ask more questions.</sub></td> <td align="center">🌱<br><b>Keep Growing</b><br><sub>Never stop learning.</sub></td> <td align="center">🔥<br><b>Keep Going</b><br><sub>Progress takes time.</sub></td> </tr> </table> <br> <p align="center">
+
+💜 <b>Every expert was once a beginner.</b><br>
+🌱 <b>Small progress is still progress.</b><br>
+🐛 <b>Bugs are lessons in disguise.</b><br>
+🚀 <b>Build first. Perfect later.</b>
 
 </p>
-📊 My GitHub World
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&title_color=BB86FC&icon_color=FF69B4" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&title_color=BB86FC" width="48%"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=20&ring=BB86FC&fire=FF69B4&currStreakLabel=BB86FC" width="70%"/> </p>
-💌 Let's Create Something Amazing
-<p align="center"> <i>Have an idea? Have a project? Just want to say hello?</i> </p> <p align="center"> <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/⭐%20GitHub-My%20Projects-181717?style=for-the-badge&logo=github"/> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/💼%20LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin"/> </a> </p>
-💜 Before You Go...
-<p align="center">
+<h2 align="center">🌷 Random Facts About Me</h2> <p align="center">
+
+☕ Powered by curiosity<br>
+🎧 Coding + music = a perfect combination<br>
+🌙 Some of my best ideas arrive late at night<br>
+🐛 Debugging is part of the adventure<br>
+💡 I collect ideas faster than I build them<br>
+✨ Still becoming the developer I imagine
+
+</p>
+<h2 align="center">📊 My GitHub Universe</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18&title_color=C084FC&icon_color=FF69B4&text_color=E9D5FF" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=18&title_color=C084FC&text_color=E9D5FF" width="48%"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=18&ring=C084FC&fire=FF69B4&currStreakLabel=C084FC" width="70%"/> </p>
+<h2 align="center">💌 Let's Build Something Together</h2> <p align="center"> <i> Have an idea?<br> Found something interesting?<br> Or just want to say hello? 👋 </i> </p> <p align="center"> <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/⭐%20EXPLORE%20MY-GITHUB-181717?style=for-the-badge&logo=github"/> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/💼%20CONNECT%20ON-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin"/> </a> </p>
+<h2 align="center">🌸 Before You Leave...</h2> <p align="center">
 
 ⭐ <b>Star something you like</b><br>
 🍴 <b>Explore my projects</b><br>
 💬 <b>Say hello</b><br>
 🚀 <b>Let's build something together!</b>
 
-</p> <p align="center"> <i>If you made it this far... you're awesome. ✨</i> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=CURIOUS%20VISITORS&color=BB86FC&style=for-the-badge"/> </p> <p align="center"> <b>💜 Thanks for visiting my little corner of GitHub! 💜</b> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:BB86FC,100:FF69B4&height=150&section=footer" width="100%"/> </p> <!-- ╔══════════════════════════════════════════════════════════╗ Keep learning. Keep building. Keep experimenting. Keep being curious. 🌱 ╚══════════════════════════════════════════════════════════╝ -->
+</p> <br> <p align="center"> <i>Thanks for visiting my little corner of the internet. 💜</i> </p> <p align="center"> <b>Keep learning. Keep building. Keep dreaming. ✨</b> </p> <br> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=170&section=footer" width="100%"/> </p> <!-- ╭────────────────────────────────────────────────────────────╮ │ │ │ "The journey of a thousand commits begins │ │ with one line of code." │ │ │ │ — Harshada 💜 │ │ │ ╰────────────────────────────────────────────────────────────╯ -->
