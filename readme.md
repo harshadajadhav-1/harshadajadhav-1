@@ -4,634 +4,341 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A855F7&height=250&section=header&text=HARSHADA%20JADHAV&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=60&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A855F7&height=250&section=header&text=HARSHADA%20JADHAV&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Developer&descAlignY=60&descSize=20"
     width="100%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Harshada+Jadhav+%F0%9F%91%8B;Aspiring+Software+Developer+%F0%9F%92%BB;Turning+Ideas+Into+Projects+%F0%9F%9A%80;Learning+Today%2C+Building+Tomorrow+%E2%9C%A8;Growing+One+Commit+At+A+Time+%F0%9F%93%88"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Harshada+Jadhav+%F0%9F%91%8B;Computer+Science+Enthusiast+%F0%9F%92%BB;Learning+%7C+Building+%7C+Improving;Turning+Knowledge+Into+Projects+%F0%9F%9A%80;Preparing+Today+For+Tomorrow+%E2%9C%A8"
   />
 </p>
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
-  </a>
+---
 
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+## 👋 About Me
 
-<br>
+I’m **Harshada Jadhav**, an aspiring software developer passionate about technology, programming, problem solving, and continuous learning.
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ABOUT ME -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+I am focused on developing a strong technical foundation and applying what I learn through practical projects.
 
-<h2 align="center">👩‍💻 About Me</h2>
+> **Learn → Understand → Practice → Build → Improve → Repeat**
 
-<p align="center">
-  <b>
-    A curious learner with a passion for technology,
-    problem solving and building meaningful projects.
-  </b>
-</p>
-
-<p align="center">
-  I believe great developers are built through
-  <b>learning, practice, consistency and curiosity.</b>
-</p>
-
-<br>
-
-<table align="center">
-  <tr>
-
-    <td width="50%" valign="top">
-
-      <h3>🎓 Education & Foundation</h3>
-
-      I am building my career in technology by combining:
-
-      <br><br>
-
-      📚 Academic learning<br>
-      💻 Programming practice<br>
-      🧠 Problem solving<br>
-      🛠️ Hands-on projects<br>
-      🌐 Web development<br>
-      📈 Continuous improvement
-
-    </td>
-
-    <td width="50%" valign="top">
-
-      <h3>💡 My Approach</h3>
-
-      <pre>
-LEARN
-  ↓
-UNDERSTAND
-  ↓
-PRACTICE
-  ↓
-BUILD
-  ↓
-DEBUG
-  ↓
-IMPROVE
-  ↓
-REPEAT
-      </pre>
-
-    </td>
-
-  </tr>
-</table>
+I believe education is not only about completing a course or earning a degree. It is about **understanding concepts, developing skills, solving problems, and applying knowledge in the real world.**
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- EDUCATION -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## 🎓 Education & Learning Foundation
 
-<h2 align="center">🎓 My Educational Journey</h2>
+My educational journey is helping me build the foundation required for a career in software development.
 
-<p align="center">
-  <b>Building the foundation for a career in software development.</b>
-</p>
+### 📚 What I'm Building Through Education
 
-<table align="center">
-  <tr>
+- 💻 Programming fundamentals
+- 🧠 Logical and analytical thinking
+- 🔍 Problem-solving skills
+- 🌐 Understanding of web technologies
+- 🛠️ Practical technical skills
+- 📈 Continuous learning habits
 
-    <td align="center" width="33%">
+### 🎯 My Learning Philosophy
 
-      <h3>📚 LEARN</h3>
+> **Learn the concept → Understand the purpose → Practice it → Build something with it.**
 
-      Understand programming fundamentals,
-      technology and computer science concepts.
-
-    </td>
-
-    <td align="center" width="33%">
-
-      <h3>🧪 PRACTICE</h3>
-
-      Strengthen knowledge through coding,
-      experimentation and problem solving.
-
-    </td>
-
-    <td align="center" width="33%">
-
-      <h3>🚀 APPLY</h3>
-
-      Turn theoretical knowledge into
-      practical projects and solutions.
-
-    </td>
-
-  </tr>
-</table>
-
-<p align="center">
-  <i>
-    "Education gives me the foundation. Projects give me experience."
-  </i>
-</p>
+I try to move beyond simply learning theory by applying concepts through coding exercises and projects.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- TECHNICAL SKILLS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## 🛠️ Technical Skills
 
-<h2 align="center">🛠️ Technical Skills</h2>
-
-<h3 align="center">💻 Programming</h3>
+### 💻 Programming Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript&theme=dark"/>
 </p>
 
-<h3 align="center">🌐 Web Development</h3>
+<p align="center">
+  <code>Python</code>
+  &nbsp;
+  <code>Java</code>
+  &nbsp;
+  <code>JavaScript</code>
+</p>
+
+### 🌐 Web Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css&theme=dark"/>
 </p>
 
-<h3 align="center">🔧 Development Tools</h3>
+<p align="center">
+  <code>HTML</code>
+  &nbsp;
+  <code>CSS</code>
+  &nbsp;
+  <code>JavaScript</code>
+</p>
+
+### 🔧 Development Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 </p>
 
-<br>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Java-Learning-ED8B00?style=for-the-badge&logo=openjdk"/>
-  <img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <code>Git</code>
+  &nbsp;
+  <code>GitHub</code>
+  &nbsp;
+  <code>VS Code</code>
 </p>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CORE STRENGTHS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## 🧠 Core Skills
 
-<h2 align="center">🧠 Core Strengths</h2>
-
-<table align="center">
-  <tr>
-
-    <td align="center">
-      💡
-      <br>
-      <b>Curiosity</b>
-      <br>
-      <sub>Always willing to learn</sub>
-    </td>
-
-    <td align="center">
-      🧠
-      <br>
-      <b>Problem Solving</b>
-      <br>
-      <sub>Think before building</sub>
-    </td>
-
-    <td align="center">
-      🎯
-      <br>
-      <b>Consistency</b>
-      <br>
-      <sub>Small progress every day</sub>
-    </td>
-
-    <td align="center">
-      🚀
-      <br>
-      <b>Adaptability</b>
-      <br>
-      <sub>Ready to learn new tools</sub>
-    </td>
-
-  </tr>
-</table>
+| Area | Focus |
+|---|---|
+| 💻 Programming | Writing logical and structured code |
+| 🧠 Problem Solving | Breaking problems into smaller solutions |
+| 🌐 Web Development | Creating structured and interactive websites |
+| 🔧 Version Control | Using Git and GitHub |
+| 🐛 Debugging | Finding and fixing problems |
+| 📚 Learning | Continuously developing technical knowledge |
+| 🤝 Collaboration | Learning effective teamwork |
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- PROJECTS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## 🚀 Projects
 
-<h2 align="center">🚀 Projects</h2>
+### 💜 Project Alpha
 
-<table align="center">
-  <tr>
+**Status:** `IN DEVELOPMENT`
 
-    <td width="50%" valign="top">
+A practical project created to apply programming concepts and strengthen development skills.
 
-      <h3>💜 Project Alpha</h3>
+**Technology Stack**
 
-      <b>Status:</b>
-      <code>IN DEVELOPMENT</code>
+```text
+Python
+HTML
+CSS
 
-      <br><br>
 
-      A practical project created to apply programming concepts
-      and develop real-world problem-solving skills.
+Focus
 
-      <br><br>
+Applying programming fundamentals
+Developing practical features
+Debugging and testing
+Improving code quality
+Learning through implementation
+💙 Project Beta
 
-      <b>Tech Stack</b>
+Status: EXPLORING
 
-      <br><br>
+A web development project focused on strengthening frontend and JavaScript knowledge.
 
-      <code>Python</code>
-      <code>HTML</code>
-      <code>CSS</code>
+Technology Stack
 
-      <br><br>
+HTML
+CSS
+JavaScript
 
-      <b>Focus</b>
 
-      <br>
+Focus
 
-      • Problem solving<br>
-      • Application development<br>
-      • Debugging<br>
-      • Code improvement
+Frontend development
+JavaScript fundamentals
+User interface development
+Interactive web experiences
+Practical experimentation
 
-    </td>
+🚧 More projects will be added as I continue learning and building.
 
-    <td width="50%" valign="top">
+📚 Currently Learning
+01 · 💻 Programming
 
-      <h3>💙 Project Beta</h3>
+Improving programming logic, syntax, data handling, and code structure.
 
-      <b>Status:</b>
-      <code>EXPLORING</code>
+02 · 🧠 Problem Solving
 
-      <br><br>
+Practicing logical thinking and learning how to approach programming problems systematically.
 
-      A web development project focused on strengthening
-      frontend and JavaScript skills.
+03 · 🌐 Web Development
 
-      <br><br>
+Developing stronger knowledge of frontend technologies and creating responsive interfaces.
 
-      <b>Tech Stack</b>
+04 · 🔧 Git & GitHub
 
-      <br><br>
+Learning version control and developing better project management habits.
 
-      <code>HTML</code>
-      <code>CSS</code>
-      <code>JavaScript</code>
+05 · 🚀 Project Development
 
-      <br><br>
+Turning theoretical knowledge into practical applications.
 
-      <b>Focus</b>
+🎯 2026 — My Mission
+<p align="center"> <img src="https://img.shields.io/badge/2026-LEARN%20%E2%80%A2%20BUILD%20%E2%80%A2%20GROW-7C3AED?style=for-the-badge" /> </p>
+01 — 📚 Learn
 
-      <br>
+Learn something valuable every day and strengthen my technical fundamentals.
 
-      • UI development<br>
-      • JavaScript<br>
-      • Web fundamentals<br>
-      • User experience
+02 — 💻 Build
 
-    </td>
+Create projects that demonstrate what I have learned.
 
-  </tr>
-</table>
+03 — 🧠 Improve
 
+Become better at programming, problem solving, and logical thinking.
+
+04 — 🌐 Explore
+
+Explore new technologies and understand how they are used in real-world applications.
+
+05 — 🤝 Contribute
+
+Start contributing to open-source projects and learn from the developer community.
+
+06 — 🚀 Grow
+
+Develop the skills, confidence, and experience required to become a professional software developer.
+
+             2026
+
+          📚 LEARN
+              ↓
+          💻 BUILD
+              ↓
+          🧠 SOLVE
+              ↓
+          🌐 EXPLORE
+              ↓
+          🤝 CONTRIBUTE
+              ↓
+          🚀 GROW
+
+
+One project at a time. One skill at a time. One step closer to my goal.
+
+📈 My Development Journey
+🎓 EDUCATION
+      ↓
+📚 TECHNICAL FOUNDATION
+      ↓
+💻 PRACTICE
+      ↓
+🧠 PROBLEM SOLVING
+      ↓
+🚀 PROJECTS
+      ↓
+🔧 PRACTICAL EXPERIENCE
+      ↓
+🤝 COLLABORATION
+      ↓
+🎯 PROFESSIONAL GROWTH
+
+💡 My Strengths
+<table align="center"> <tr>
+<td align="center">
+  💡
+  <br>
+  <b>Curious</b>
+  <br>
+  <sub>Always ready to learn</sub>
+</td>
+
+<td align="center">
+  🧠
+  <br>
+  <b>Analytical</b>
+  <br>
+  <sub>Enjoy solving problems</sub>
+</td>
+
+<td align="center">
+  🎯
+  <br>
+  <b>Focused</b>
+  <br>
+  <sub>Work toward clear goals</sub>
+</td>
+
+<td align="center">
+  📈
+  <br>
+  <b>Consistent</b>
+  <br>
+  <sub>Believe in steady progress</sub>
+</td>
+
+</tr> </table>
+🧩 How I Approach Problems
+1. Understand the problem
+           ↓
+2. Break it into smaller parts
+           ↓
+3. Research and learn
+           ↓
+4. Design a possible solution
+           ↓
+5. Write the code
+           ↓
+6. Test and debug
+           ↓
+7. Improve the solution
+
+
+I don't see bugs as failures. I see them as part of the learning process.
+
+📊 GitHub Activity
 <p align="center">
-  <b>🚧 More projects are currently in progress.</b>
-</p>
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&title_color=A78BFA&icon_color=8B5CF6" width="48%" />
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CURRENT LEARNING -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=16&title_color=A78BFA" width="48%" />
 
-<h2 align="center">📚 Currently Learning</h2>
+</p> <p align="center">
 
-<p align="center">
-
-  <code>Programming Fundamentals</code>
-  &nbsp;•&nbsp;
-  <code>Web Development</code>
-  &nbsp;•&nbsp;
-  <code>JavaScript</code>
-  &nbsp;•&nbsp;
-  <code>Problem Solving</code>
-  &nbsp;•&nbsp;
-  <code>Git & GitHub</code>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=16&ring=8B5CF6&fire=A855F7&currStreakLabel=A78BFA" width="70%" />
 
 </p>
+🔮 Where I'm Heading
 
-<br>
+My long-term goal is to grow from a student and learner into a confident software developer capable of building practical, reliable, and meaningful technology solutions.
 
-<table align="center">
-  <tr>
+Student
+   ↓
+Learner
+   ↓
+Builder
+   ↓
+Developer
+   ↓
+Professional
 
-    <td width="50%" valign="top">
+⭐ My Developer Philosophy
 
-      <h3>🔍 Technical Growth</h3>
-
-      • Strengthening programming fundamentals<br>
-      • Improving coding logic<br>
-      • Practicing problem solving<br>
-      • Learning development tools<br>
-      • Building real projects
-
-    </td>
-
-    <td width="50%" valign="top">
-
-      <h3>📈 Professional Growth</h3>
-
-      • Improving communication<br>
-      • Learning teamwork<br>
-      • Understanding development workflows<br>
-      • Building a professional portfolio<br>
-      • Preparing for real-world opportunities
-
-    </td>
-
-  </tr>
-</table>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 2026 MISSION -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🎯 2026 — My Mission</h2>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/2026-MISSION%20%7C%20LEARN%20%E2%80%A2%20BUILD%20%E2%80%A2%20GROW-7C3AED?style=for-the-badge"
-  />
-</p>
-
-<table align="center">
-  <tr>
-    <td>
-
-      <b>01 · 📚 Learn</b>
-
-      <br><br>
-
-      Build strong technical fundamentals and explore technologies
-      beyond my comfort zone.
-
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-
-      <b>02 · 💻 Build</b>
-
-      <br><br>
-
-      Create meaningful projects that demonstrate practical
-      technical skills.
-
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-
-      <b>03 · 🧠 Solve</b>
-
-      <br><br>
-
-      Improve problem-solving, logical thinking and coding abilities.
-
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-
-      <b>04 · 🌐 Explore</b>
-
-      <br><br>
-
-      Discover modern technologies and understand how they are
-      used in real-world development.
-
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-
-      <b>05 · 🤝 Contribute</b>
-
-      <br><br>
-
-      Start contributing to open-source projects and learn from
-      the developer community.
-
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-
-      <b>06 · 🚀 Grow</b>
-
-      <br><br>
-
-      Become a confident, capable and industry-ready
-      software developer.
-
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <b>
-    One project at a time.
-    One skill at a time.
-    One step closer to my goal.
-  </b>
-</p>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CAREER DIRECTION -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🏆 What I'm Working Toward</h2>
+"I may still be learning, but every project, every problem, and every line of code is helping me become the developer I want to be."
 
 <p align="center">
 
-🎓 Strong Technical Foundation
-
-<br>↓<br>
-
-💻 Practical Project Experience
-
-<br>↓<br>
-
-🧠 Strong Problem-Solving Skills
-
-<br>↓<br>
-
-🤝 Real-World Collaboration
-
-<br>↓<br>
-
-🚀 Professional Software Developer
+📚 Learn
+  •  
+💻 Build
+  •  
+🧠 Solve
+  •  
+📈 Improve
+  •  
+🚀 Grow
 
 </p>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- GITHUB -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">📊 GitHub Overview</h2>
-
-<p align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&title_color=A78BFA&icon_color=8B5CF6"
-    width="48%"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=16&title_color=A78BFA"
-    width="48%"
-  />
-
-</p>
-
-<p align="center">
-
-  <img
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=16&ring=8B5CF6&fire=A855F7&currStreakLabel=A78BFA"
-    width="70%"
-  />
-
-</p>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- PROFESSIONAL PROFILE -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">💼 What I Bring</h2>
-
-<table align="center">
-  <tr>
-
-    <td align="center">
-      🎯
-      <br>
-      <b>Goal Oriented</b>
-      <br>
-      <sub>Focused on continuous improvement</sub>
-    </td>
-
-    <td align="center">
-      📚
-      <br>
-      <b>Quick Learner</b>
-      <br>
-      <sub>Comfortable exploring new technologies</sub>
-    </td>
-
-    <td align="center">
-      🤝
-      <br>
-      <b>Collaborative</b>
-      <br>
-      <sub>Open to teamwork and feedback</sub>
-    </td>
-
-    <td align="center">
-      🚀
-      <br>
-      <b>Growth Mindset</b>
-      <br>
-      <sub>Always ready for the next challenge</sub>
-    </td>
-
-  </tr>
-</table>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CONNECT -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🤝 Let's Connect</h2>
-
-<p align="center">
-  <i>
-    Open to learning, collaboration, internships and
-    opportunities to grow as a developer.
-  </i>
-</p>
-
-<p align="center">
-
-  <a href="https://github.com/YOUR_USERNAME">
-    <img
-      src="https://img.shields.io/badge/GitHub-My%20Projects-181717?style=for-the-badge&logo=github"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin"
-    />
-  </a>
-
-</p>
-
----
-
-<h2 align="center">⭐ Thank You for Visiting</h2>
-
-<p align="center">
-
-  <b>Learn.</b>
-  &nbsp;•&nbsp;
-  <b>Build.</b>
-  &nbsp;•&nbsp;
-  <b>Solve.</b>
-  &nbsp;•&nbsp;
-  <b>Grow.</b>
-
-</p>
-
-<p align="center">
-  <i>
-    Every commit is a small step toward becoming
-    the developer I aspire to be.
-  </i>
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A855F7&height=140&section=footer"
-    width="100%"
-  />
-</p>
+🌱 What's Next?
+Build more real-world projects
+Strengthen programming fundamentals
+Improve problem-solving skills
+Explore modern technologies
+Contribute to open-source
+Gain practical development experience
+Continue growing as a software developer
+<p align="center"> <b>Thanks for visiting my GitHub profile.</b> </p> <p align="center"> <i>Every commit is a step forward.</i> </p> <p align="center"> ⭐ Star something you like &nbsp;&nbsp;•&nbsp;&nbsp; 🍴 Explore my projects &nbsp;&nbsp;•&nbsp;&nbsp; 💬 Say hello &nbsp;&nbsp;•&nbsp;&nbsp; 🚀 Let's build something together </p> <br> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A855F7&height=140&section=footer" width="100%" /> </p> ```
